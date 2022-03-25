@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Spider-Man-Api</string>
+    <string name="empty">Empty</string>
+    <string name="favorite">Favorite</string>
+    <string name="books">Books</string>
+</resources>
